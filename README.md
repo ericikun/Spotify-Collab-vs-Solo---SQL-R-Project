@@ -7,7 +7,7 @@ Popularity is measured in two ways:
 1) **Average log(Streams)** (continuous outcome)  
 2) **Probability of charting** (binary outcome: charted vs not charted)
 
-SQL was used for data setup / storage, and R was used for cleaning, inference, and visualization.
+SQL was used for quick data checks (row counts and summary queries), and R was used for cleaning, statistical tests, and visualization.
 
 ---
 
